@@ -1,6 +1,8 @@
 <!-- Section 1 
 
 -->
+![Jesus Espinoza](https://jesus-eec.github.io/personal-cv/images/jesus-espinoza-chatgpt.png)
+
 # ¡Hola, soy Jesus Espinoza! 
 
 **Soy Ingeniero de Cloud y DevOps. Disfruto aprender, enseñar y ayudar a otros a alcanzar sus metas académicas y profesionales a través de las tecnologías de nube, ciberseguridad, networking, cloud, observabilidad y automatización.**
